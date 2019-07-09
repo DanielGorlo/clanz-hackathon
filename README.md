@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/DanielGorlo/clanz-hackathon/raw/master/icon.png)
+![Logo of the project](https://github.com/DanielGorlo/clanz-hackathon/raw/master/icon-small.png)
 
 Welcome from Clanz!
 
