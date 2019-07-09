@@ -1,8 +1,7 @@
-scp ./app/* RASPBERRY_HOST/app
+scp ./app/* RASPBERRY_HOST
 
 
 ssh -t RASPBERRY_HOST << EOF
-cd app
 pip install -r requirements.txt
 sh start.sh
 EOF
