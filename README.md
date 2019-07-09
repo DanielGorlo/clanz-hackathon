@@ -1,3 +1,5 @@
+![Logo of the project](https://github.com/DanielGorlo/clanz-hackathon/raw/master/icon.png)
+
 Welcome from Clanz!
 
 We've prepared some reading material you can start with below.
